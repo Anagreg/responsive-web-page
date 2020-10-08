@@ -7,4 +7,29 @@
 	  margin: auto;
 	  max-width: 800px;
 	}
+
+	#sectionPeople #person1 {
+	  float: left; 
+	  width: 48%;
+	  box-sizing: border-box;
+	}
+
+	#sectionPeople #person2 {
+	  float:right;
+	  width: 48%;
+	  box-sizing: border-box;
+	}
+
+	#sectionPeople img{
+	  float: left; 
+	  width: 30%;
+	  box-sizing: border-box;
+	  padding: 10px;
+	}
+
+	#sectionPeople .text {
+	  float:right;
+	  width: 70%;
+	  box-sizing: border-box;
+	}
 }

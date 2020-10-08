@@ -2,6 +2,15 @@
   padding: 0.8em;
   color: white;
   background-size: cover;
-   background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+
+#headline h2{
+
+}
+
+#sectionPeople .person{
+	border: solid 1px grey;
+	padding: 10px;
 }
 

@@ -1,0 +1,5 @@
+@media screen and (min-width: 360px) and (max-width: 600px) {
+	#headline {
+	  background-image: url('../img/background-tablet.png');
+	}	
+}

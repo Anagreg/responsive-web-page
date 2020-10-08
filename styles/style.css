@@ -1,6 +1,7 @@
 #headline {
   padding: 0.8em;
   color: white;
-  background-image: url('../img/background-desktop.png');
   background-size: cover;
+   background-size: 100% 100%;
 }
+

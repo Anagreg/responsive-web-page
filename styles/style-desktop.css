@@ -32,4 +32,12 @@
 	  width: 70%;
 	  box-sizing: border-box;
 	}
+
+	button.redirect{
+		width: 60%;
+	}
+
+	#sectionIcons .container{
+		width: 60%;
+	}
 }

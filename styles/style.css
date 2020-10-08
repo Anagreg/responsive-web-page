@@ -23,7 +23,20 @@ button.redirect{
   text-align: center;
   text-transform: uppercase;
   display: inline-block;
-  margin: 50px 0px;
-  width: 60%;
+  margin: 50px 0px 30px 0px;
   cursor: pointer;
+}
+
+#sectionIcons{
+	margin: 30px 0px 50px 0px;
+}
+
+#sectionIcons a{
+	text-decoration: none;
+	margin: 10px;
+}
+
+footer{
+	background-color: lightgrey;
+	text-align: center;
 }

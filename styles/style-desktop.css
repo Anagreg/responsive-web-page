@@ -5,7 +5,7 @@
 
 	.container {
 	  margin: auto;
-	  max-width: 800px;
+	  max-width: 900px;
 	}
 
 	#sectionPeople #person1 {
@@ -37,7 +37,12 @@
 		width: 60%;
 	}
 
-	#sectionIcons .container{
+	#sectionIcons .container {
 		width: 60%;
+	}
+
+	#footer-container {
+		margin: auto;
+		max-width: 800px;
 	}
 }

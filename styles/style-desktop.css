@@ -8,6 +8,12 @@
 	  max-width: 900px;
 	}
 
+	#numbers {
+		margin: :auto;
+		text-align: center;
+		display: flex;
+	}
+
 	#sectionPeople #person1 {
 	  float: left; 
 	  width: 48%;
@@ -27,7 +33,14 @@
 	  padding: 10px;
 	}
 
-	#sectionPeople .text {
+	#sectionNumbers h1{
+	  float: left; 
+	  width: 30%;
+	  box-sizing: border-box;
+	  padding: 10px;
+	}
+
+	.text {
 	  float:right;
 	  width: 70%;
 	  box-sizing: border-box;

@@ -2,4 +2,28 @@
 	#headline {
 	  background-image: url('../img/background-mobile.png');
 	}	
+
+	#headline-container{
+		position:relative;
+		width: 80%;
+		padding: 15px 5px;
+	}
+
+	.container {
+	  margin: auto;
+	  text-align: center;
+	}
+
+	button.redirect{
+		width: 90%;
+	}
+
+	#sectionIcons .container {
+		width: 90%;
+	}
+
+	#footer-container {
+		margin: auto;
+		max-width: 90%;
+	}
 }

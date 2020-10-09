@@ -42,14 +42,14 @@
 
 	#sectionNumbers h1{
 	  float: left; 
-	  width: 30%;
+	  width: 25%;
 	  box-sizing: border-box;
 	  padding: 10px;
 	}
 
 	.text {
 	  float:right;
-	  width: 70%;
+	  width: 65%;
 	  box-sizing: border-box;
 	}
 

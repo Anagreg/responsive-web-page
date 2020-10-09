@@ -1,5 +1,30 @@
 @media screen and (min-width: 360px) and (max-width: 600px) {
 	#headline {
 	  background-image: url('../img/background-tablet.png');
-	}	
+	}
+
+	#headline-container{
+		position:relative;
+		left: 55%;
+		width: 40%;
+		padding: 30px 20px;
+	}
+
+	.container {
+	  margin: auto;
+	  text-align: center;
+	}
+
+	button.redirect{
+		width: 80%;
+	}
+
+	#sectionIcons .container {
+		width: 80%;
+	}
+
+	#footer-container {
+		margin: auto;
+		max-width: 80%;
+	}
 }

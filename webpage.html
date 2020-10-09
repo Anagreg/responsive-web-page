@@ -7,13 +7,14 @@
      <link rel="stylesheet" href="styles/style-tablet.css">
      <link rel="stylesheet" href="styles/style-mobile.css">
      <script src="scripts/scroll.js"></script>
+     <script src="scripts/popup.js"></script>
      <title>Responsive Web Page</title>
   </head>
 
   <body>   
     <div id="headline">
       <div id="headline-container">
-        <form method="post" id="subscribe">
+        <form method="post" id="subscribe" onsubmit="togglePopup()">
           <h1>Lorem ipsum dolor sit amet</h1>
           <input type="email" name="email" id="email" placeholder="Email" required>
           <input type="submit" id="submit" value="Lorem ipsum dolor sit amet">

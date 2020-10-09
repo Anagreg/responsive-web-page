@@ -3,6 +3,13 @@
 	  background-image: url('../img/background-desktop.png');
 	}
 
+	#headline-container{
+		position:relative;
+		left: 60%;
+		width: 20%;
+		padding: 110px 20px;
+	}
+
 	.container {
 	  margin: auto;
 	  max-width: 900px;

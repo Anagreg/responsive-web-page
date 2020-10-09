@@ -9,6 +9,26 @@ body {
   background-size: 100% 100%;
 }
 
+#headline-container{
+	background-color: rgb(48,48,48,0.5);
+	text-align: center;
+}
+
+#subscribe input{
+	text-transform: uppercase;
+	padding: 15px;
+	margin: 5px 0px;	
+}
+
+#submit{
+  background-color: gold;
+  border: none;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
+
 .container{
 	text-align: center;
 }
